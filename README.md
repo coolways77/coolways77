@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shraddha
 - 👀 I’m interested in Java frameworks, Data science
-- 🌱 I’m currently learning Java bootspring,postgres and German language
+- 🌱 I’m currently learning Java springboot,postgresSQL and German language
 - 📫 How to reach me - shraddhawork02@gmail.com
 
 <!---
