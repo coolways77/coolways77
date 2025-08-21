@@ -1,10 +1,12 @@
-Hey, I’m Shraddha 👩‍💻  
-From software engineering in India 🇮🇳 to quantum computing in Germany 🇩🇪,  
-I’m on a journey of building tools that bridge today’s software with tomorrow’s quantum tech.  
+# Hi, I’m Shraddha Thanki 👋
 
-🛠 Skills: Python, Java, C++, SQL, Git  
-📚 Interests: HPC, Quantum Walks, Error Correction, Simulation Models  
-✨ Beyond coding: Yoga, meditation, and writing about tech & ideas  
+🎓 Master’s student in High-Performance & Quantum Computing (Germany)  
+💻 Background in Software Development (Java, Python, SQL, REST APIs)  
+🔬 Experience with Quantum Simulations (Intel Quantum SDK, Qiskit, Quantum Walks)  
+🛠 Technical Skills: Python | Java | C++ | SQL | Git | Docker | REST APIs  
+🌍 Interests: HPC, Quantum Computing, Software Engineering, AI-driven Simulations  
+
+📌 Currently working on projects that combine software development with quantum and HPC methods.
 
 <!---
 coolways77/coolways77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
